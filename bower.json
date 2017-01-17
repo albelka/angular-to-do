@@ -1,0 +1,20 @@
+{
+  "name": "angular2-to-do",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Anne Belka <antastic461@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
